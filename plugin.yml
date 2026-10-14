@@ -1,0 +1,6 @@
+name: AntiExplosion
+version: 1.0.0
+main: AntiExplosion\Main
+api: 5.0.0
+author: TheLastKaKashi/kakashi
+description: Blocks TNT, crystals, respawn anchors, fire and explosion grief
